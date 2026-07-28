@@ -4,7 +4,7 @@
 
 <pre>
 The Table Institute. [UK]
-
+│
 ├── <a href="./Publications">Publications</a>
 │   ├── <a href="./Publications/White_Papers">White Papers</a>
 │   ├── <a href="./Publications/Strategic_Reports">Strategic Reports</a>
