@@ -36,7 +36,7 @@ Rather than prescribing conclusions, The Table Institute [UK] aims to provide ev
 
 ---
 
-## Core Remit
+# Core Remit
 
 ## Research and Publications
 
@@ -70,7 +70,7 @@ Developing frameworks to examine:
 
 ---
 
-## Research Areas
+# Research Areas
 
 ## Technology and Artificial Intelligence
 
