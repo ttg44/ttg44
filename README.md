@@ -1,6 +1,6 @@
 # The Table Institute. [UK]
 
-## **Research, Analysis, and Publishing Division**
+## Research, Analysis, and Publishing Division
 
 <pre>
 The Table Institute. [UK]
@@ -20,7 +20,7 @@ The Table Institute. [UK]
 └── <a href="./Archive">Archive</a>
 </pre>
 
-Parent Organisation: **Communications Strategy Centre UK (CSC)**
+### Parent Organisation: Communications Strategy Centre UK (CSC)
 
 ---
 
