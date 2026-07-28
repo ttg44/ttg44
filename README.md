@@ -1,4 +1,4 @@
-# The Table Institute [UK]
+# The Table Institute. [UK]
 
 ## **Research, Analysis, and Publishing Division**
 
