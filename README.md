@@ -3,7 +3,7 @@
 ### **Research, Analysis, and Publishing Division**
 
 <pre>
-The Table Institute [UK]
+The Table Institute. [UK]
 
 ├── <a href="./Publications">Publications</a>
 │   ├── <a href="./Publications/White_Papers">White Papers</a>
