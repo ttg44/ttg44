@@ -1,6 +1,6 @@
-## The Table Institute. [UK]
+# The Table Institute. [UK]
 
-### **Research, Analysis, and Publishing Division**
+## **Research, Analysis, and Publishing Division**
 
 <pre>
 The Table Institute. [UK]
@@ -24,7 +24,7 @@ Parent Organisation: **Communications Strategy Centre UK (CSC)**
 
 ---
 
-### About
+## About
 
 The Table Institute [UK] serves as the research and analytical foundation of the Communications Strategy Centre UK.
 
@@ -36,9 +36,9 @@ Rather than prescribing conclusions, The Table Institute [UK] aims to provide ev
 
 ---
 
-### Core Remit
+## Core Remit
 
-### Research and Publications
+## Research and Publications
 
 Producing:
 
@@ -48,7 +48,7 @@ Producing:
 - Research notes
 - Long-form investigative studies
 
-### Academic Research
+## Academic Research
 
 Supporting:
 
@@ -58,7 +58,7 @@ Supporting:
 - Research archives
 - Reproducible methodologies
 
-### Systems Analysis
+## Systems Analysis
 
 Developing frameworks to examine:
 
@@ -70,9 +70,9 @@ Developing frameworks to examine:
 
 ---
 
-### Research Areas
+## Research Areas
 
-### Technology and Artificial Intelligence
+## Technology and Artificial Intelligence
 
 Examining:
 
@@ -83,7 +83,7 @@ Examining:
 - Technological disruption
 - Systemic risk
 
-### Politics and Governance
+## Politics and Governance
 
 Analysing:
 
@@ -93,7 +93,7 @@ Analysing:
 - Public policy
 - Societal change
 
-### Science, Philosophy, and Human Systems
+## Science, Philosophy, and Human Systems
 
 Exploring:
 
@@ -104,7 +104,7 @@ Exploring:
 - Scientific developments
 - Human adaptation
 
-### Strategic Futures and Emerging Trends
+## Strategic Futures and Emerging Trends
 
 Investigating:
 
@@ -115,11 +115,11 @@ Investigating:
 
 ---
 
-### Publishing and Distribution
+## Publishing and Distribution
 
 The Table Institute [UK] prioritises research quality, transparency, and accessibility over rapid content production.
 
-### Research Repository
+## Research Repository
 
 A GitHub-based archive containing:
 
@@ -129,7 +129,7 @@ A GitHub-based archive containing:
 - Supporting materials
 - Documentation
 
-### Digital Publication
+## Digital Publication
 
 Providing:
 
@@ -137,7 +137,7 @@ Providing:
 - Research archives
 - Project documentation
 
-### Academic Engagement
+## Academic Engagement
 
 Where appropriate:
 
@@ -146,7 +146,7 @@ Where appropriate:
 - Conference participation
 - Research collaboration
 
-### Institutional Engagement
+## Institutional Engagement
 
 Producing:
 
@@ -157,7 +157,7 @@ Producing:
 
 ---
 
-### Role Within CSC
+## Role Within CSC
 
 The Table Institute [UK] represents the knowledge-generation layer of the Communications Strategy Centre UK.
 
@@ -169,7 +169,7 @@ It addresses three foundational analytical questions:
 
 The research produced by The Table Institute [UK] informs the wider CSC ecosystem:
 
-### Copyright
+## Copyright
 
 © 2026 The Table Institute [UK]. All rights reserved.
 
