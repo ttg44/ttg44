@@ -20,7 +20,7 @@ The Table Institute. [UK]
 └── <a href="./Archive">Archive</a>
 </pre>
 
-### Parent Organisation: Communications Strategy Centre UK (CSC)
+Parent Organisation: **Communications Strategy Centre UK (CSC)**
 
 ---
 
@@ -115,7 +115,7 @@ Investigating:
 
 ---
 
-## Publishing and Distribution
+# Publishing and Distribution
 
 The Table Institute [UK] prioritises research quality, transparency, and accessibility over rapid content production.
 
@@ -157,7 +157,7 @@ Producing:
 
 ---
 
-## Role Within CSC
+# Role Within CSC
 
 The Table Institute [UK] represents the knowledge-generation layer of the Communications Strategy Centre UK.
 
