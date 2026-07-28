@@ -2,7 +2,7 @@
 
 ## Research, Analysis, and Publishing Division
 
-## Parent Organisation: Communications Strategy Centre UK (CSC)
+Parent Organisation: Communications Strategy Centre UK (CSC)
 
 ---
 
