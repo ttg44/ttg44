@@ -24,8 +24,6 @@ Parent Organisation: **Communications Strategy Centre UK (CSC)**
 
 ---
 
-## About
-
 The Table Institute [UK] serves as the research and analytical foundation of the Communications Strategy Centre UK.
 
 It operates as a multidisciplinary research and publishing group examining the complex systems shaping the modern world across technology, politics, science, communications, and society.
