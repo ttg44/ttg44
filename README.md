@@ -1,6 +1,6 @@
 # The Table Institute. [UK]
 
-## Research, Analysis, and Publishing Division
+## Outputs.
 
 <pre>
 The Table Institute. [UK]
@@ -36,10 +36,6 @@ Rather than prescribing conclusions, The Table Institute [UK] aims to provide ev
 
 ---
 
-# Core Remit
-
-## Research and Publications
-
 Producing:
 
 - White papers
@@ -48,8 +44,6 @@ Producing:
 - Research notes
 - Long-form investigative studies
 
-## Academic Research
-
 Supporting:
 
 - Scholarly articles
@@ -57,8 +51,6 @@ Supporting:
 - Literature reviews
 - Research archives
 - Reproducible methodologies
-
-## Systems Analysis
 
 Developing frameworks to examine:
 
@@ -70,10 +62,6 @@ Developing frameworks to examine:
 
 ---
 
-# Research Areas
-
-## Technology and Artificial Intelligence
-
 Examining:
 
 - Emerging technologies
@@ -83,8 +71,6 @@ Examining:
 - Technological disruption
 - Systemic risk
 
-## Politics and Governance
-
 Analysing:
 
 - Political systems
@@ -92,8 +78,6 @@ Analysing:
 - Institutional resilience
 - Public policy
 - Societal change
-
-## Science, Philosophy, and Human Systems
 
 Exploring:
 
@@ -104,8 +88,6 @@ Exploring:
 - Scientific developments
 - Human adaptation
 
-## Strategic Futures and Emerging Trends
-
 Investigating:
 
 - Geopolitical transformation
@@ -115,11 +97,7 @@ Investigating:
 
 ---
 
-# Publishing and Distribution
-
 The Table Institute [UK] prioritises research quality, transparency, and accessibility over rapid content production.
-
-## Research Repository
 
 A GitHub-based archive containing:
 
@@ -129,15 +107,11 @@ A GitHub-based archive containing:
 - Supporting materials
 - Documentation
 
-## Digital Publication
-
 Providing:
 
 - Public access to publications
 - Research archives
 - Project documentation
-
-## Academic Engagement
 
 Where appropriate:
 
@@ -145,8 +119,6 @@ Where appropriate:
 - Academic publication
 - Conference participation
 - Research collaboration
-
-## Institutional Engagement
 
 Producing:
 
@@ -156,18 +128,6 @@ Producing:
 - Downloadable research documents
 
 ---
-
-# Role Within CSC
-
-The Table Institute [UK] represents the knowledge-generation layer of the Communications Strategy Centre UK.
-
-It addresses three foundational analytical questions:
-
-> **What is happening?**  
-> **Why is it happening?**  
-> **What does it mean?**
-
-The research produced by The Table Institute [UK] informs the wider CSC ecosystem:
 
 ## Copyright
 
