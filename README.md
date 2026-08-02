@@ -20,8 +20,6 @@ The Table Institute. [UK]
 └── <a href="./Archive">Archive</a>
 </pre>
 
-Parent Organisation: **Communications Strategy Centre UK (CSC)**
-
 ---
 
 The Table Institute [UK] operates as a multidisciplinary research and publishing group examining the complex systems shaping the modern world across technology, politics, science, communications, and society.
