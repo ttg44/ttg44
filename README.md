@@ -1,4 +1,4 @@
-## The Table Institute. [UK]
+## The Table Group. [UK]
 
 ### Archives.
 
