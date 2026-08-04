@@ -3,7 +3,7 @@
 ### Archives.
 
 <pre>
-The Table Institute. [UK]
+The Table Group. [UK]
 │
 ├── <a href="./Publications">Publications</a>
 │   ├── <a href="./Publications/White_Papers">White Papers</a>
@@ -22,11 +22,11 @@ The Table Institute. [UK]
 
 ---
 
-The Table Institute [UK] operates as a multidisciplinary research and publishing group examining the complex systems shaping the modern world across technology, politics, science, communications, and society.
+The Table Group. [UK] operates as a multidisciplinary research and publishing group examining the complex systems shaping the modern world across technology, politics, science, communications, and society.
 
-Through research papers, strategic analysis, and long-form publications, The Table Institute [UK] explores emerging trends, evaluates systemic change, and develops frameworks for understanding technological, political, and social transformation.
+Through research papers, strategic analysis, and long-form publications, The Table Group. [UK] explores emerging trends, evaluates systemic change, and develops frameworks for understanding technological, political, and social transformation.
 
-Rather than prescribing conclusions, The Table Institute [UK] aims to provide evidence-based analysis, alternative perspectives, and structured research frameworks that allow decision-makers, researchers, and the public to better understand complex issues.
+Rather than prescribing conclusions, The Table Group. [UK] aims to provide evidence-based analysis, alternative perspectives, and structured research frameworks that allow decision-makers, researchers, and the public to better understand complex issues.
 
 ---
 
@@ -91,7 +91,7 @@ Investigating:
 
 ---
 
-The Table Institute [UK] prioritises research quality, transparency, and accessibility over rapid content production.
+The Table Group. [UK] prioritises research quality, transparency, and accessibility over rapid content production.
 
 A GitHub-based archive containing:
 
@@ -125,7 +125,7 @@ Producing:
 
 ## Copyright
 
-© 2026 The Table Institute [UK]. All rights reserved.
+© 2026 The Table Group. [UK]. All rights reserved.
 
 All original research papers, publications, analytical frameworks, written materials, and associated intellectual property contained within this repository remain the property of The Table Institute [UK].
 
