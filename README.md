@@ -4,7 +4,7 @@
 <a name="about"></a>
 ---
 
-## About
+### About
 
 The Table Group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, science, communications, and society.
 
@@ -14,11 +14,11 @@ Rather than prescribing conclusions, The Table Group. [UK] provides rigorous ana
 
 ---
 
-## Research Domains
+### Research Domains
 
 Research undertaken by The Table Group. [UK] examines interconnected systems across:
 
-### Technology
+#### Technology
 
 - Emerging technologies
 - Artificial intelligence
@@ -27,7 +27,7 @@ Research undertaken by The Table Group. [UK] examines interconnected systems acr
 - Technological disruption
 - Systemic risk
 
-### Politics and Society
+#### Politics and Society
 
 - Political systems
 - Statecraft
@@ -37,7 +37,7 @@ Research undertaken by The Table Group. [UK] examines interconnected systems acr
 - Geopolitical transformation
 - Long-term strategic trends
 
-### Science and History
+#### Science and History
 
 - Physics
 - Philosophy
@@ -48,7 +48,7 @@ Research undertaken by The Table Group. [UK] examines interconnected systems acr
 
 ---
 
-## Publications
+### Publications
 
 The Table Group. [UK] produces:
 
@@ -64,7 +64,7 @@ The Table Group. [UK] produces:
 
 ---
 
-## Research Support
+### Research Support
 
 Research may include:
 
@@ -79,7 +79,7 @@ Research may include:
 
 ---
 
-## Repository
+### Repository
 
 The Repository provides an indexed collection of research papers, publications, analytical frameworks, datasets, supporting materials, and documentation.
 
@@ -87,7 +87,7 @@ It serves as a structured record of research development and publication history
 
 ---
 
-## Research Principles
+### Research Principles
 
 The Table Group. [UK] prioritises:
 
@@ -101,7 +101,7 @@ The organisation focuses on developing frameworks that improve understanding of 
 
 ---
 
-## Copyright
+### Copyright
 
 © 2026 The Table Group. [UK]. All rights reserved.
 
