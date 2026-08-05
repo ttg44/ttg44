@@ -6,13 +6,11 @@
 
 ### About
 
-TT Group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, science, communications, and society.
+TT Group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, communications, and society.
 
-Through strategic research, long-form publications, and evidence-based analysis, TT Group. [UK] investigates emerging trends, evaluates systemic change, and develops frameworks for understanding technological, political, and societal transformation.
+Through strategic research, long-form publications, and evidence-based analysis, TT Group. [UK] investigates emerging trends, evaluates systemic change, develops frameworks for understanding complex systems, and presents research findings, strategic assessments, and policy recommendations intended to support informed discussion, institutional improvement, and improved decision-making.
 
-TT Group. [UK] provides rigorous analysis, alternative perspectives, and structured research frameworks that examine complex issues and propose potential approaches to technological, political, scientific, and societal challenges.
-
-Through its publications, TT Group. [UK] presents research findings, strategic assessments, and policy recommendations intended to support informed discussion, institutional improvement, and improved decision-making.
+TT Group. [UK] provides rigorous analysis, alternative perspectives, and structured research frameworks that examine complex issues while proposing potential approaches to technological, political, and societal challenges.
 
 ---
 
