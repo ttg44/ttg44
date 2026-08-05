@@ -10,6 +10,7 @@ Through research papers, strategic analysis, and long-form publications, The Tab
 
 Rather than prescribing conclusions, The Table Group. [UK] aims to provide evidence-based analysis, alternative perspectives, and structured research frameworks that allow decision-makers, researchers, and the public to better understand complex issues.
 
+
 ---
 
 Producing:
