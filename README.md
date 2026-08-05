@@ -103,8 +103,10 @@ The organisation focuses on developing frameworks that improve understanding of 
 
 ### Copyright
 
-© 2026 The Table Group. [UK]. All rights reserved.
+© 2026 Communications Strategy Centre UK (CSC). All rights reserved.
 
-All original research papers, publications, analytical frameworks, written materials, and associated intellectual property contained within this repository remain the property of The Table Group. [UK].
+The Table Group. [UK] operates as a research group and think tank under Communications Strategy Centre UK (CSC).
+
+All original research papers, publications, analytical frameworks, written materials, and associated intellectual property contained within this repository remain the property of Communications Strategy Centre UK (CSC).
 
 This repository is maintained as a public record of research development and publication history.
