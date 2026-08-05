@@ -1,6 +1,7 @@
 ## The Table Group. [UK]
 
-### Document Archives: Repository⠀|⠀[About](#about) <a name="about"></a>
+### Document Archives: Repository⠀|⠀[About](#about) 
+<a name="about"></a>
 ---
 
 The Table Group. [UK] operates as a multidisciplinary research and publishing group examining the complex systems shaping the modern world across technology, politics, science, communications, and society.
