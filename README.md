@@ -1,24 +1,6 @@
 ## The Table Group. [UK]
 
-### Archives.
-
-<pre>
-The Table Group. [UK]
-│
-├── <a href="./Publications">Publications</a>
-│   ├── <a href="./Publications/White_Papers">White Papers</a>
-│   ├── <a href="./Publications/Strategic_Reports">Strategic Reports</a>
-│   ├── <a href="./Publications/Policy_Briefs">Policy Briefs</a>
-│   └── <a href="./Publications/Research_Notes">Research Notes</a>
-│
-├── <a href="./Research_Frameworks">Research Frameworks</a>
-│
-├── <a href="./Datasets">Datasets</a>
-│
-├── <a href="./References">References</a>
-│
-└── <a href="./Archive">Archive</a>
-</pre>
+### Publications.
 
 ---
 
