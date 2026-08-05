@@ -1,6 +1,6 @@
 ## The Table Group. [UK]
 
-### Document Repository:⠀Archives | [About](#about) 
+### Document Repository: Archives | [About](#about) 
 <a name="about"></a>
 ---
 
