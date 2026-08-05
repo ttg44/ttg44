@@ -113,13 +113,11 @@ All original research papers, publications, analytical frameworks, written mater
 
 This repository is maintained as a public record of research development and publication history.
 
----
-
 <a name="legal"></a>
 
-## The Table Group. [UK]
+---
 
-### Legal
+## Legal
 
 The Table Group. [UK] operates as the research and publishing identity of Communications Strategy Centre UK (CSC).
 
