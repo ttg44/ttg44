@@ -5,8 +5,8 @@
 <a name="about"></a>
 
 ---
-
-## About
+### About
+---
 
 TT group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, communications, and society.
 
@@ -117,8 +117,8 @@ This repository is maintained as a public record of research development and pub
 <a name="legal"></a>
 
 ---
-
-## Legal
+### Legal
+---
 
 The Table Group. [UK] operates as the research and publishing identity of Communications Strategy Centre UK (CSC).
 
