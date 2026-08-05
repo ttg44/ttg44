@@ -1,4 +1,4 @@
-## The Table Group. [UK]
+## The Table. [UK]
 
 ### Document Repository: Archives | [About](#about) | [Legal](#legal) 
 
