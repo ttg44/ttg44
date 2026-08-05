@@ -1,6 +1,6 @@
 ## The Table Group. [UK]
 
-### Document Repository: Archives | [About](#about) 
+### Document Repository: Archives | [About](#about) | [Legal](#legal) 
 <a name="about"></a>
 ---
 
@@ -110,3 +110,5 @@ The Table Group. [UK] operates as a research group and think tank under Communic
 All original research papers, publications, analytical frameworks, written materials, and associated intellectual property contained within this repository remain the property of Communications Strategy Centre UK (CSC).
 
 This repository is maintained as a public record of research development and publication history.
+<a name="legal"></a>
+---
