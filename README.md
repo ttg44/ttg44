@@ -6,45 +6,48 @@
 
 ### About
 
-The Table Group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, science, communications, and society.
+TT Group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, science, communications, and society.
 
-Through strategic analysis, long-form publications, and evidence-based research, The Table Group. [UK] explores emerging trends, evaluates systemic change, and develops frameworks for understanding technological, political, and societal transformation.
+Through strategic research, long-form publications, and evidence-based analysis, TT Group. [UK] investigates emerging trends, evaluates systemic change, and develops frameworks for understanding technological, political, and societal transformation.
 
-Rather than prescribing conclusions, The Table Group. [UK] provides rigorous analysis, alternative perspectives, and structured research frameworks that enable researchers, policymakers, institutions, and the public to better understand complex issues.
+TT Group. [UK] provides rigorous analysis, alternative perspectives, and structured research frameworks that examine complex issues and propose potential approaches to technological, political, scientific, and societal challenges.
+
+Through its publications, TT Group. [UK] presents research findings, strategic assessments, and policy recommendations intended to support informed discussion, institutional improvement, and improved decision-making.
 
 ---
 
 ### Research Domains
 
-Research undertaken by The Table Group. [UK] examines interconnected systems across:
+Research undertaken by TT Group. [UK] examines interconnected systems across:
 
-#### Technology
+#### Technology and Digital Systems
 
 - Emerging technologies
 - Artificial intelligence
 - Computing evolution
 - Digital infrastructure
 - Technological disruption
-- Systemic risk
+- Cybersecurity and digital resilience
+- Systemic technological risk
 
-#### Politics and Society
+#### Politics, Governance, and Society
 
 - Political systems
-- Statecraft
+- Governance structures
 - Public policy
 - Institutional resilience
 - Societal change
 - Geopolitical transformation
 - Long-term strategic trends
 
-#### Science and History
+#### Communications and Information Systems
 
-- Physics
-- Philosophy
-- Archaeology
-- Historical patterns
-- Scientific developments
-- Human adaptation
+- Media ecosystems
+- Information networks
+- Public communication
+- Narrative formation
+- Behavioural influence
+- Digital communication systems
 
 ---
 
