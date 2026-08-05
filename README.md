@@ -113,9 +113,9 @@ All original research papers, publications, analytical frameworks, written mater
 
 This repository is maintained as a public record of research development and publication history.
 
-<a name="legal"></a>
-
 ---
+
+<a name="legal"></a>
 
 ## The Table Group. [UK]
 
