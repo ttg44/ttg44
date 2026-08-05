@@ -8,17 +8,17 @@
 
 ## About
 
-TT Group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, communications, and society.
+TT group. [UK] is an independent multidisciplinary research and publishing organisation examining the complex systems shaping technology, politics, communications, and society.
 
-Through strategic research, long-form publications, and evidence-based analysis, TT Group. [UK] investigates emerging trends, evaluates systemic change, develops frameworks for understanding complex systems, and presents research findings, strategic assessments, and policy recommendations intended to support informed discussion, institutional improvement, and improved decision-making.
+Through strategic research, long-form publications, and evidence-based analysis, TT group. [UK] investigates emerging trends, evaluates systemic change, develops frameworks for understanding complex systems, and presents research findings, strategic assessments, and policy recommendations intended to support informed discussion, institutional improvement, and improved decision-making.
 
-TT Group. [UK] provides rigorous analysis, alternative perspectives, and structured research frameworks that examine complex issues while proposing potential approaches to technological, political, and societal challenges.
+TT group. [UK] provides rigorous analysis, alternative perspectives, and structured research frameworks that examine complex issues while proposing potential approaches to technological, political, and societal challenges.
 
 ---
 
 ### Research Domains
 
-Research undertaken by TT Group. [UK] examines interconnected systems across:
+Research undertaken by TT group. [UK] examines interconnected systems across:
 
 #### Technology and Digital Systems
 
@@ -53,7 +53,7 @@ Research undertaken by TT Group. [UK] examines interconnected systems across:
 
 ### Publications
 
-TT Group. [UK] produces:
+TT group. [UK] produces:
 
 - White papers
 - Strategic reports
@@ -92,7 +92,7 @@ It serves as a structured record of research development and publication history
 
 ### Research Principles
 
-TT Group. [UK] prioritises:
+TT group. [UK] prioritises:
 
 - Research quality
 - Methodological transparency
@@ -122,7 +122,7 @@ This repository is maintained as a public record of research development and pub
 
 The Table Group. [UK] operates as the research and publishing identity of Communications Strategy Centre UK (CSC).
 
-This Legal section provides information regarding privacy, website usage, repository usage, confidentiality, and intellectual property relating to The Table Group. [UK], TT Group. [UK], and associated research and publishing activities.
+This Legal section provides information regarding privacy, website usage, repository usage, confidentiality, and intellectual property relating to The Table Group. [UK], TT group. [UK], and associated research and publishing activities.
 
 ---
 
