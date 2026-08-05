@@ -1,6 +1,7 @@
 ## The Table Group. [UK]
 
 ### Document Repository: Archives | [About](#about) | [Legal](#legal) 
+
 <a name="about"></a>
 ---
 
@@ -51,7 +52,7 @@ Research undertaken by TT Group. [UK] examines interconnected systems across:
 
 ### Publications
 
-The Table Group. [UK] produces:
+TT Group. [UK] produces:
 
 - White papers
 - Strategic reports
@@ -65,16 +66,16 @@ The Table Group. [UK] produces:
 
 ---
 
-### Research Support
+### Research Activities
 
-Research may include:
+Research activities may include:
 
-- Scholarly articles
+- Scholarly analysis
 - Open research publications
 - Literature reviews
 - Research archives
 - Reproducible methodologies
-- Academic publication
+- Academic engagement
 - Conference participation
 - Research collaboration
 
@@ -82,7 +83,7 @@ Research may include:
 
 ### Repository
 
-The Repository provides an indexed collection of research papers, publications, analytical frameworks, datasets, supporting materials, and documentation.
+The Repository provides an indexed collection of research papers, publications, analytical frameworks, supporting materials, and documentation.
 
 It serves as a structured record of research development and publication history, preserving key materials that support ongoing investigation and analysis.
 
@@ -90,7 +91,7 @@ It serves as a structured record of research development and publication history
 
 ### Research Principles
 
-The Table Group. [UK] prioritises:
+TT Group. [UK] prioritises:
 
 - Research quality
 - Methodological transparency
@@ -98,7 +99,7 @@ The Table Group. [UK] prioritises:
 - Evidence-based analysis
 - Open documentation where appropriate
 
-The organisation focuses on developing frameworks that improve understanding of technological, political, scientific, and societal change.
+The organisation focuses on developing frameworks that improve understanding of technological, political, communications, and societal change.
 
 ---
 
@@ -111,5 +112,6 @@ The Table Group. [UK] operates as a research group and think tank under Communic
 All original research papers, publications, analytical frameworks, written materials, and associated intellectual property contained within this repository remain the property of Communications Strategy Centre UK (CSC).
 
 This repository is maintained as a public record of research development and publication history.
+
 <a name="legal"></a>
 ---
