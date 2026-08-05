@@ -1,6 +1,6 @@
 ## The Table Group. [UK]
 
-### Document Repository: [Archives](./Archives)
+### Document Repository: <a href="./Archives"><u>Archives</u></a>
 
 ---
 
