@@ -143,10 +143,10 @@ For the purposes of data protection law, the Data Controller is:
 The Table. [UK] represents the research and publishing activities conducted under this organisation.
 
 **Registered Address:**  
-[Insert Registered Address]
+96 Euston Rd., London NW1 2DB
 
 **Contact Email:**  
-[Insert Email Address]
+info@csc44.org
 
 ---
 
@@ -377,7 +377,7 @@ Individuals may have rights including:
 
 Requests should be sent to:
 
-[Insert Email Address]
+frontdesk@csc44.org
 
 Individuals also have the right to complain to:
 
@@ -455,11 +455,11 @@ Operated by:
 
 Email:
 
-[Insert Email Address]
+info@csc44.org
 
 Registered Address:
 
-[Insert Address]
+96 Euston Rd., London NW1 2DB
 
 ---
 
