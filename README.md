@@ -146,7 +146,7 @@ The Table. [UK] represents the research and publishing activities conducted unde
 96 Euston Rd., London NW1 2DB
 
 **Contact Email:**  
-info AT csc44 DOT org
+ttg AT csc44 DOT org
 
 ---
 
@@ -377,7 +377,7 @@ Individuals may have rights including:
 
 Requests should be sent to:
 
-frontdesk AT csc44 DOT org
+info AT csc44 DOT org
 
 Individuals also have the right to complain to:
 
@@ -455,7 +455,7 @@ Operated by:
 
 Email:
 
-info AT csc44 DOT org
+ttg AT csc44 DOT org
 
 Registered Address:
 
