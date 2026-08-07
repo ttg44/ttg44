@@ -108,19 +108,21 @@ The organisation focuses on developing frameworks that improve understanding of 
 
 © 2026 Communications Strategy Centre UK (CSC). All rights reserved.
 
-The Table. [UK] operates as a research group and think tank under Communications Strategy Centre UK (CSC).
+The Table. [UK] operates as an independent research and publishing identity associated with Communications Strategy Centre UK (CSC).
 
 All original research papers, publications, analytical frameworks, written materials, and associated intellectual property contained within this repository remain the property of Communications Strategy Centre UK (CSC).
 
-This repository is maintained as a public record of research development and publication history.
+This repository is maintained as a public record of research development, publication history, and associated research materials.
 
 <a name="legal"></a>
 
 ---
+
 ### Legal
+
 ---
 
-The Table. [UK] operates as the research and publishing identity of Communications Strategy Centre UK (CSC).
+The Table. [UK] is an independent research and publishing identity associated with Communications Strategy Centre UK (CSC).
 
 This Legal section provides information regarding privacy, website usage, repository usage, confidentiality, and intellectual property relating to The Table. [UK], TT group. [UK], and associated research and publishing activities.
 
@@ -130,7 +132,7 @@ This Legal section provides information regarding privacy, website usage, reposi
 
 ### 1. Introduction
 
-Communications Strategy Centre UK (CSC) is committed to protecting the privacy and personal data of researchers, contributors, collaborators, professional contacts, website visitors, and individuals whose information may be processed through activities conducted under The Table. [UK].
+The Table. [UK] is committed to protecting the privacy and personal data of researchers, contributors, collaborators, professional contacts, website visitors, and individuals whose information may be processed through research, publishing, and associated activities.
 
 The Table. [UK] undertakes independent research, analysis, publication, and documentation activities involving technology, politics, communications, and society.
 
@@ -140,7 +142,7 @@ For the purposes of data protection law, the Data Controller is:
 
 **Communications Strategy Centre UK (CSC)**
 
-The Table. [UK] represents the research and publishing activities conducted under this organisation.
+The Table. [UK] represents the research and publishing activities conducted through this identity.
 
 **Registered Address:**  
 96 Euston Rd., London NW1 2DB
@@ -239,32 +241,28 @@ Through lawful analysis of publicly accessible information, including:
 
 Personal data is processed under lawful bases provided by the UK GDPR.
 
-#### Contract
-
-Where necessary to:
-
-- Deliver agreed research services
-- Manage professional relationships
-- Fulfil contractual obligations
-
 #### Legitimate Interests
 
 Including:
 
-- Operating the organisation
-- Maintaining research records
+- Conducting independent research activities
+- Maintaining research records and archives
 - Publishing research outputs
-- Supporting research collaboration
+- Supporting professional collaboration
 - Protecting systems and information
-- Conducting lawful research activities
+- Maintaining operational security
+
+#### Contract
+
+Where necessary to:
+
+- Manage agreed professional engagements
+- Provide requested services
+- Fulfil contractual obligations
 
 #### Consent
 
-Where required for:
-
-- Communications
-- Optional tracking technologies
-- Specific processing activities
+Where required for specific processing activities.
 
 Consent may be withdrawn at any time.
 
@@ -327,7 +325,7 @@ Where appropriate, research materials and publication information may be shared 
 
 #### Legal Authorities
 
-Where required by law or necessary to protect the rights, property, security, or safety of Communications Strategy Centre UK (CSC), The Table. [UK], collaborators, or others.
+Where required by law or necessary to protect the rights, property, security, or safety of The Table. [UK], Communications Strategy Centre UK (CSC), collaborators, or others.
 
 We do not sell personal data or share personal information for independent third-party marketing purposes.
 
@@ -364,16 +362,16 @@ Users may manage cookie preferences through browser settings or available websit
 
 ### 9. Data Protection Rights
 
-Individuals may have rights including:
+Individuals may have rights under applicable data protection legislation in relation to personal data processed by The Table. [UK].
 
-- Right to be informed
-- Right of access
-- Right to rectification
-- Right to erasure
-- Right to restrict processing
-- Right to data portability
-- Right to object
-- Rights relating to automated decision-making where applicable
+These may include:
+
+- The right to request information about personal data held;
+- The right to request correction of inaccurate personal data;
+- The right to object to certain processing activities;
+- The right to request restriction of processing where applicable.
+
+Certain rights may be subject to legal limitations, particularly where information is processed for legitimate research, archival, publication, or freedom of expression purposes.
 
 Requests should be sent to:
 
@@ -397,15 +395,15 @@ Retention periods may include:
 
 #### Research Data
 
-Research information and supporting materials are retained only where necessary for legitimate research, archival, operational, or contractual purposes and subject to appropriate safeguards.
+Research information and supporting materials are retained where necessary for legitimate research, archival, operational, or contractual purposes and subject to appropriate safeguards.
 
 #### Communications Data
 
-For professional record keeping and dispute resolution purposes.
+Professional correspondence may be retained for record keeping, research collaboration, and dispute resolution purposes.
 
 #### Website Data
 
-For appropriate operational and analytical periods.
+Website data may be retained for appropriate operational and analytical periods.
 
 ---
 
@@ -421,7 +419,7 @@ Users may view and reference materials for personal, educational, academic, or p
 
 #### Intellectual Property Notice
 
-The Table. [UK] operates as the research and publishing identity of Communications Strategy Centre UK (CSC).
+The Table. [UK] represents the research and publishing activities associated with Communications Strategy Centre UK (CSC).
 
 All trademarks, names, logos, publications, written materials, analytical frameworks, research methodologies, documentation, and associated intellectual property remain the property of Communications Strategy Centre UK (CSC), unless otherwise stated.
 
@@ -449,7 +447,7 @@ Published materials do not constitute legal, financial, political, or profession
 
 **The Table. [UK]**
 
-Operated by:
+Associated with:
 
 **Communications Strategy Centre UK (CSC)**
 
