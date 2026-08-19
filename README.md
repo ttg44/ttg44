@@ -1,8 +1,6 @@
 ## The Table. [UK]
 
 ### Document Repository: Archives
-
-
 ---
 ### About
 ---
